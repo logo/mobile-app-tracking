@@ -4,12 +4,12 @@
  */
 
 .logo[data-logo="MobileAppTracking"] {
-  width: 3.482142857142857em;
+  width: 4.5em;
 }
 
 .logo[data-logo="MobileAppTracking"] > * {
   background-image: url(images/logo.svg);
-  margin: 0 0 0 0;
+  margin: -.4em 0 -.2em 0;
 }
 
 .logo[data-logo="MobileAppTracking"][data-color="black"] > * {
